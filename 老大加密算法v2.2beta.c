@@ -112,6 +112,7 @@ int main(void)
             {
                 printf("The result after encryption is:%lldMAN\n",b);
             }
+            break;
     }
     return 0;
 }
